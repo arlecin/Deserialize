@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diffgr:diffgram xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <valuteData>
+    <docs>
+      <doc>
+        <name>Первый</name>
+      </doc>
+      <doc>
+        <name>Второй</name>
+      </doc>
+    </docs>
+  </valuteData>
+</diffgr:diffgram>
